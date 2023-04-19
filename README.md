@@ -3,7 +3,7 @@
 ## The Simon Game
 
 HTML/CSS/JS & DOM - Simon Game
-* [About](#about-this-project)
+* [About this project](#about)
 * [Features](#features)
 * [Requirements](#requirements)
 * [Technical Information](#technical-information)
